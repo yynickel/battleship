@@ -1,0 +1,23 @@
+table {
+  width: 440px;
+  height: 440px;
+  margin-bottom: 6px;
+  margin-top: 6px;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+
+
+td {
+
+  border: solid black;
+  width: 40px;
+  height: 40px;
+  margin: 0px;
+}
+
+.boardAngle {
+  width: 20px;
+  height: 20px;
+}
